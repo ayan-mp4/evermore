@@ -20,3 +20,7 @@ Upload `index.html`, `style.css`, and `game.js` to the repository root. GitHub P
 
 ## Important
 Saves use localStorage and are separate on each device/browser. Back up using **More → Export save backup**. This is a prototype, not the completed simulation.
+
+
+## v0.3 — Welcome screen on every launch
+The welcome screen appears on every fresh page load, even with a saved life. Use **Continue Life** to resume or **Start New Life** to create a new character (with an overwrite warning). You can return to the welcome screen via More or Settings. Saves remain in the same localStorage key as previous releases.
